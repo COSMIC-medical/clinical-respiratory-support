@@ -7,4 +7,4 @@ This repository contains all the design files necessary to build a clinical resp
 System overview goes here
 
 ## Installation Instructions
-1. Download the assembly and deisng consideration document [here](https://cosmicmedical.ca/crs-31819-warnings-and-disclaimers).
+1. Download the assembly and design documents [here](https://cosmicmedical.ca/crs-31819-warnings-and-disclaimers).
