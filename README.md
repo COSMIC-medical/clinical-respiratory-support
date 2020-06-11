@@ -1,7 +1,7 @@
 # Clinical Respiratory Support
 ### A COSMIC Medical Project
 
-This repository contains all the design files necessary to build a clinical respiratory support ward designed to provide positive pressure and remove contaminated air in field hospital settings. Please read license.pdf before using any of the files to understanad the liabilities and limitations you are responsible for by using this repository.
+This repository contains all the concept files necessary to construct a clinical respiratory support system designed to provide positive pressure and remove contaminated air in field hospital settings. Please read license.pdf before using any of the files to understand the liabilities and limitations you are responsible for by using this repository.
 
 ## System Overview (DRAFT)
 This repository contains the design concept document for the Clinical Respiratory Support (CRS) system. It is designed as a purely mechanical system to deliver HEPA-filtered air and capture contagious particles from patients requiring continuous positive airway pressure (CPAP) therapy, as in those with mild-to-moderate coronavirus disease (COVID-19). The CRS system can be used in settings without access to bedside medical air and only requires household electrical access, such as in field hospitals and other non-conventional hospital settings.
