@@ -4,7 +4,7 @@
 
 This repository contains all the concept files necessary to construct a Clinical Respiratory Support (CRS) system designed to provide positive pressure and remove contaminated air in field hospital settings. Please read license.pdf before using any of the files to understand the liabilities and limitations you are responsible for by using this repository.
 
-### DISCLAIMER OF WARRANTIES
+## DISCLAIMER OF WARRANTIES
 
 You acknowledge that the Content is in research phase and all outcomes from use of the Content are not known. YOUR USE OF THE SITE AND THE CONTENT LOCATED ON THIS SITE AND ANY LINKED SITE, INCLUDING THE DESIGN SPECIFICATIONS, IS AT YOUR OWN RISK. THE SITE AND ITS CONTENT, INCLUDING THE DESIGN SPECIFICATIONS LOCATED ON THE SITE OR ANY LINKED SITE, ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS.
 
