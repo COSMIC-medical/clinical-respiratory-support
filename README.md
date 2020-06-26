@@ -34,5 +34,4 @@ This is achieved using two parallel air manifolds, each driven with a separate m
 The document provided does not outline the sourcing and production of a CRS in great detail. Rather, it is meant to provide a framework for its end-user to develop their own system using the principles and keeping important considerations in mind. The intention of this was to leave the end-user as free as possible given the countless possibilities of available supplies in these settings.
 
 ## Installation Instructions
-1. Review the license file in this Github repo.
-2. Download the assembly and concept documents from the [Cosmic Medical website](https://cosmicmedical.ca/crs-31819-warnings-and-disclaimers).
+1. Download the assembly and concept documents from the [Cosmic Medical website](https://cosmicmedical.ca/crs-31819-warnings-and-disclaimers).
